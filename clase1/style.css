@@ -1,0 +1,24 @@
+*{
+    color:red;
+}
+
+p{
+    color:blue;
+    
+}
+
+#Segundoparrafo {
+    color: blueviolet;
+}
+
+.importante{
+    font-weight: bolder;
+    color: black !important;
+    display: inline;
+}
+
+.importante-2{
+    font-weight: bolder;
+    color: yellow !important;
+    display: inline;
+}
